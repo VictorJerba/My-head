@@ -1,3 +1,3 @@
-# head-spinning-HTML+CSS+GSAP
+# head-spinning-HTML+CSS+GSAPgit 
 
-![](My-head/img/oasis git.gif)
+![](oasisgit.gif)
